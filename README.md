@@ -1,6 +1,6 @@
 # 4HC3_DesignThinkingProject
 Hao Yin, Ruoyuan Liu
 # Installing Dependencies:
-elm init elm install MacCASOutreach/graphicsvg
+elm install elm-community/random-extra
 # Building:
 elm make src/Main.elm
